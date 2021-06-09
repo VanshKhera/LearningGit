@@ -1,3 +1,3 @@
 a = 45
 b = 10
-print(a+b)
+print("The sum of a and b is", a+b)
